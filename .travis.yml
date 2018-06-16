@@ -1,3 +1,3 @@
 language: cpp
 compiler: g++
-script:sudo apt-get install g++ && make
+script: sudo apt-get install g++ && make
